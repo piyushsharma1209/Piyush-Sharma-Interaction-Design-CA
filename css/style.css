@@ -109,11 +109,11 @@ header {
   font-weight: 500;
 }
 .cart-quantity {
-  border: 1px solid var(--text-color);
+  border: 1px solid #8F65D8;
   outline-color: var(--main-color);
-  width: 2.4rem;
+  width: 3.4rem;
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.9rem;
 }
 .cart-remove {
   font-size: 24px;
