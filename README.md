@@ -1,4 +1,4 @@
-# Project Exam 1
+# Interaction Design
 
 ![image](img/gamehubpage.png)
 
@@ -9,11 +9,10 @@ Homepage
 This project is for exam at my school. In this project i have made e website for a blog page with shows reviews for mobile phones from various brands. 
 
 - Homepage
+- Games (New and Used) page
 - Contact page with requirments
-- Carousel on homepage
-- About page
-- Blog page
-- Specific blog page
+- Working Cart page
+- Menu for mobile screens
 
 ## Built With
 
