@@ -31,7 +31,7 @@ This is where you list how to get the project started. It typically just include
 1. Clone the repo:
 
 ```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-1-piyushsharma1209.git
+git clone git@github.com:piyushsharma1209/Piyush-Sharma-Interaction-Design-CA.git
 ```
 
 2. Install the dependencies:
